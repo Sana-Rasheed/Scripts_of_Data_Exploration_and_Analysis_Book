@@ -1,4 +1,5 @@
 # Data Exploration and Analysis Book in Urdu 
+## Authors: Sana Rasheed & Zeeshan-ul-hassan Usmani
 
 ## Dear Readers,
 
@@ -17,3 +18,4 @@ This repository contains 3 folders based on defined volumes and subsequent folde
 ### Pre-requisite: Python Programming Language
 
 ## Happy Learning and Keep Practising!
+
